@@ -1,0 +1,10 @@
+Portfolio Calculator v_1
+
+
+This will calculate every possible weight for your stocks and then it will calculate the risk on every possible portfolio.
+
+You can also enter stocks that are already in your portfolio and the calculator will adjust accordingly.
+
+If you have data already then turn scrape to False and it will skip the scraping phase. If you want to run the calculator daily then set scrape to True, it will delete the data already in the directory and re-scrape.
+
+Majority of the time is spent on calculating all the possible combinations of weights
